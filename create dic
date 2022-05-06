@@ -1,0 +1,6 @@
+Emp={1:[ 1,"hema",25000,"kakinada"],2:[2,"anjali",50000,"amalapuram"] ,3:[3,"vinod",40000,"vijaywadaa"]
+x=int(input(" enter the emp no "))
+Print("id of the emp:",Emp[x][0])
+Print("name of the emp:",Emp[x][1])
+Print("salary of the emp:",Emp[x][2])
+Print(" city of the emp:",Emp[x][3])
