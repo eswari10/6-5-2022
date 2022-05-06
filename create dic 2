@@ -1,0 +1,5 @@
+Stud={1:[ 1,"hema",bca"],2:[2,"anjali","mca"] ,3:[3,"vinod","bba"]
+x=int(input(" enter the stud no "))
+Print("id of the student:",stu[x][0])
+Print("name of the student:",stu[x][1])
+Print("group of the student:",stu[x][2])
